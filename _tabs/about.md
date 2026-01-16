@@ -4,46 +4,58 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi! 👋 I'm a student who enjoys **building things and understanding how they work**.
+# About Me
 
-I’m especially interested in **technology across both hardware and software**, and I like learning by doing rather than just reading.
+I am currently an **undergraduate student majoring in Electronic Information Engineering**.
 
----
+This personal website (repository) is mainly used to document my learning process, technical practices, and personal reflections during my undergraduate studies. In the future, it may naturally extend to my graduate studies, doctoral research, or professional work.
 
-### 🔧 Hardware Side
-
-On the hardware side, I’ve worked with:
-
-- **Microcontrollers** such as STM32
-- **PCB design**, from schematic to layout
-- **FPGA development**, including basic digital design and system integration
-
-I enjoy the feeling of turning abstract ideas into something that actually runs on a board.
+By continuously recording and organizing what I learn, I aim to turn fragmented experiences into reusable and reviewable knowledge, while also sharing insights, methods, and lessons learned along the way.
 
 ---
 
-### 💻 Software Side
+## What This Repository Contains
 
-On the software side, I’m currently learning:
+### 📘 Learning & Technical Notes
 
-- **Deep Learning**, with hands-on experience using PyTorch
-- **Visual SLAM**, including concepts like feature extraction, motion estimation, and optimization
-- General programming with **C++ and Python**
+*   **Software Guides**: Installation, configuration, and usage guides for commonly used software in my field.
+*   **Study Notes**: Course notes, technical notes, and periodic summaries from my studies.
+*   **Practice**: Records of projects and experiments, including **problem analysis and solution approaches**.
+*   **Insights**: Personal interpretations and reflections on selected technical topics.
 
-I’m particularly curious about how algorithms interact with real-world data and hardware constraints.
+> Most content is written from a learner’s perspective, focusing on reasoning, processes, and mistakes rather than polished final answers.
+
+### ✍️ Essays & Personal Reflections
+
+In addition to technical content, this repository also includes a section for **personal essays and informal notes**.
+These entries are not intended as tutorials or academic material, but as records of thoughts and reflections arising from study, daily life, or personal growth.
+
+They may be incomplete or subjective, and are best viewed as part of an **evolving personal journey**.
 
 ---
 
-### 📒 About This Website
+## For Different Readers
 
-This website is mainly a **personal learning log**.
+*   **For myself**: A long-term archive for reflection and self-improvement.
+*   **For junior students**: Practical references that may help **reduce trial and error**.
+*   **For instructors**: An authentic view of my learning process, interests, and way of thinking.
+*   **For recruiters**: Evidence of how I approach **learning, problem-solving, and continuous development**.
 
-I use it to:
+---
 
-- Document what I learn
-- Summarize concepts in my own words
-- Record projects, experiments, and mistakes along the way
+## Final Note
 
-It’s not meant to be perfect — just honest, growing, and technical.
+This site is not meant to be a showcase of achievements, but a **work-in-progress record**.
+Some content may be revised as my understanding deepens, but I strive to keep it **honest and clear**.
 
-Thanks for stopping by!
+**If any part of this repository proves useful or inspiring, that would be its greatest value.**
+
+---
+
+## 📬 Contact Me
+
+If you are interested in the content of this repository, or have any questions, suggestions, or ideas to discuss, please feel free to reach out via email.
+
+*   **Email**: `wsy1296702023@gmail.com`
+
+*(I will try my best to respond to emails during my spare time.)*
