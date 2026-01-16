@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
-
 I am currently an **undergraduate student majoring in Electronic Information Engineering**.
 
 This personal website (repository) is mainly used to document my learning process, technical practices, and personal reflections during my undergraduate studies. In the future, it may naturally extend to my graduate studies, doctoral research, or professional work.
